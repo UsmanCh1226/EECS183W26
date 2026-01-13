@@ -24,7 +24,7 @@ int main() {
     cin >> people;
     cout << endl << endl;
 
-    // --- Constants (No Magic Numbers) ---
+    // --- Constants  ---
     const double SERVINGS_PER_LOAF = 4.0;
     
     const double CUPS_FLOUR_PER_LOAF = 5.0;
